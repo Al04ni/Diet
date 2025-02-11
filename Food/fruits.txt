@@ -1,7 +1,3 @@
-=========================================
-        LIST OF PROTECTIVE FOODS  
-=========================================
-  
 Oranges 🍊 (Vitamin C, boosts immunity)  
 Apples 🍏 (Fiber & heart health)  
 Bananas 🍌 (Potassium for muscle function)  
@@ -30,10 +26,9 @@ Yogurt 🥛 (Probiotics for gut health)
 Lentils 🍛 (Iron & plant-based protein)  
 Beans 🫘 (Fiber & heart-healthy protein)  
 Olive Oil  (Heart-healthy monounsaturated fats)  
-   - Coconut 🥥 (Supports metabolism)  
-   - Dark Chocolate 🍫 (Rich in flavonoids & good for heart health)  
- 
-   - Cucumber 🥒 (Hydration & skin health)  
-   - Lemon 🍋 (Vitamin C & digestion support)  
-   - Green Tea 🍵 (Powerful antioxidants)  
-   - Aloe Vera 🌿 (Healing & digestive aid)  
+Coconut 🥥 (Supports metabolism)  
+Dark Chocolate 🍫 (Rich in flavonoids & good for heart health)  
+Cucumber 🥒 (Hydration & skin health)  
+Lemon 🍋 (Vitamin C & digestion support)  
+Green Tea 🍵 (Powerful antioxidants)  
+Aloe Vera 🌿 (Healing & digestive aid)  
